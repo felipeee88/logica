@@ -1,0 +1,12 @@
+C:\Fontes\logica\Logica.Domain\bin\Debug\net6.0\Logica.Domain.deps.json
+C:\Fontes\logica\Logica.Domain\bin\Debug\net6.0\Logica.Domain.dll
+C:\Fontes\logica\Logica.Domain\bin\Debug\net6.0\Logica.Domain.pdb
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.csproj.AssemblyReference.cache
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.AssemblyInfoInputs.cache
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.AssemblyInfo.cs
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.csproj.CoreCompileInputs.cache
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.dll
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\refint\Logica.Domain.dll
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\Logica.Domain.pdb
+C:\Fontes\logica\Logica.Domain\obj\Debug\net6.0\ref\Logica.Domain.dll

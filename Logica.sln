@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{F4C2065D-ED4F-44B7-97BF-E5AC5C02EA02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{7CDF9B01-477F-40B5-8342-7A4AE9D2365C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{79332CE6-CC08-44ED-A5A8-D2F51137F6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica.Domain", "Logica.Domain\Logica.Domain.csproj", "{C91BA55B-56A9-4999-AE9C-B7858509B3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica.Application", "Logica.Application\Logica.Application.csproj", "{FA4BB73E-204E-4BE6-92A8-CD2138473242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91BA55B-56A9-4999-AE9C-B7858509B3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91BA55B-56A9-4999-AE9C-B7858509B3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91BA55B-56A9-4999-AE9C-B7858509B3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91BA55B-56A9-4999-AE9C-B7858509B3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4BB73E-204E-4BE6-92A8-CD2138473242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4BB73E-204E-4BE6-92A8-CD2138473242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4BB73E-204E-4BE6-92A8-CD2138473242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4BB73E-204E-4BE6-92A8-CD2138473242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C91BA55B-56A9-4999-AE9C-B7858509B3A6} = {79332CE6-CC08-44ED-A5A8-D2F51137F6A7}
+		{FA4BB73E-204E-4BE6-92A8-CD2138473242} = {7CDF9B01-477F-40B5-8342-7A4AE9D2365C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A033436-1B1D-470C-8231-F1E79DE564A2}
+	EndGlobalSection
+EndGlobal
